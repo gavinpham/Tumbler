@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "accel-mma84":"*",
+        "ambient-attx4":"*",
+        "wifi-cc3000":"*",
+        "twilio":"*"
+    }
+    
+}
